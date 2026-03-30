@@ -1,7 +1,5 @@
 <img src="https://davechurchill.ca/images/banner/0.jpg">
 
-# Dave Churchill
-
 I’m a computer science professor at Memorial University working in artificial intelligence and games research.
 
 Visit my website for more details: [davechurchill.ca](https://davechurchill.ca/)
