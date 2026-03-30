@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="https://davechurchill.ca/images/banner/0.jpg">
 
-<!--
-**davechurchill/davechurchill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dave Churchill
 
-Here are some ideas to get you started:
+I’m a computer science professor at Memorial University working in artificial intelligence and games research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website for more details: [davechurchill.ca](https://davechurchill.ca/)
+
+## Research Areas
+
+- Artificial intelligence
+- Game AI
+- Heuristic search
+- Video games
+- Reinforcement learning
